@@ -4,3 +4,5 @@ london.csv.gz
 .RData
 .Rproj.user/
 graphs/
+.DS_Store
+files/
