@@ -33,6 +33,7 @@ Data is sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/).
 ├── final project.Rproj              # RStudio project file
 ├── graphs/                          # Generated plots (excluded from git)
 ├── londonlisting.csv                # Data file (excluded from git)
+├── TextMining_presentation.pdf      # Presentation slide
 └── london.csv.gz                    # Compressed data (excluded from git)
 ```
 
