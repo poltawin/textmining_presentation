@@ -27,7 +27,7 @@ Data is sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/).
 ## Project Structure
 
 ```
-├── Airbnb Price - London copy.Rmd   # Main analysis notebook
+├── Airbnb Price - London.Rmd        # Main analysis notebook
 ├── TMEF_dfm.R                       # Document-feature matrix helpers
 ├── vectorFunctions.R                # Word embedding / vector functions
 ├── final project.Rproj              # RStudio project file
